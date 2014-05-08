@@ -1,4 +1,4 @@
-## Foreward
+## Foreword
 Dear Coursera colleague,
 This has been forked from rdpeng/ExData_Plotting1. Note that I did not put the figures in a separate directory, all the
 code and figures are at this level. I also did not change the transparency of the png files, since I went by the html
