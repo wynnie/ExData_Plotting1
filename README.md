@@ -1,5 +1,12 @@
-## Introduction
+## Foreward
+Dear Coursera colleague,
+This has been forked from rdpeng/ExData_Plotting1. Note that I did not put the figures in a separate directory, all the
+code and figures are at this level. I also did not change the transparency of the png files, since I went by the html
+instructions and not the png files in the figures/ directory. Those are not named properly, they are of the wrong size and hence I didn't think I should replicate those.
 
+Rest of the readme continues
+
+## Introduction
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
